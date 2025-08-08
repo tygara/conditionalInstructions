@@ -7,7 +7,7 @@ output goes to the largest un-initalized variable.
 
 ## Flowchart
 
-[Flowchart](docs/diagram.jpeg)
+[Flowchart](docs/flowchart.jpeg)
 
 ## Challenges Faced During the Lab
 
